@@ -1,0 +1,13 @@
+# ninja log v5
+1386	7048	7048860310678913	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	da11c3196dcf2c4
+19	1372	7048860251591602	untitled_autogen/timestamp	e9cb6e3ddb2a218b
+19	1372	7048860251591602	D:/proga/Qt/cpp/projectsQT/untitled/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	e9cb6e3ddb2a218b
+19	1372	7048860251591602	untitled_autogen/mocs_compilation.cpp	e9cb6e3ddb2a218b
+19	1372	7048860251591602	D:/proga/Qt/cpp/projectsQT/untitled/cmake-build-debug/untitled_autogen/timestamp	e9cb6e3ddb2a218b
+1372	7152	7048860311812691	CMakeFiles/untitled.dir/main.cpp.obj	9ea990fc49dd5b25
+1	636	7038909673996459	build.ninja	be8f87d1c8bb0a80
+7688	8791	7048860328239194	untitled.exe	5e0451ce5ee58f8b
+1431	3407	7048860274234094	CMakeFiles/untitled.dir/Ray.cpp.obj	b6b1a006ea99ec6b
+1403	7687	7048860317174809	CMakeFiles/untitled.dir/MainWindow.cpp.obj	24c3e9d2c90b06ee
+1444	4200	7048860282282727	CMakeFiles/untitled.dir/Controller.cpp.obj	393fa2b25ce59dda
+1417	3719	7048860277588095	CMakeFiles/untitled.dir/Polygon.cpp.obj	d9d42b1c2fc778b1
