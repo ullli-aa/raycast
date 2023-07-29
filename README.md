@@ -13,3 +13,5 @@ The point that the user controls is drawn and it serve as a light source.
 - Polygons will be obstacles to light, creating a shadow.
 ### static-lighting mode:
 In it, when you press the LMB, you can create additional light sources — the user cannot control their movement, but they also create light.
+
+![image](https://github.com/ullli-aa/raycast/assets/115147012/3f5e33dc-cc24-43da-ac79-01c77f751162)
